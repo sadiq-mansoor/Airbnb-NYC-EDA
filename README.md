@@ -1,6 +1,8 @@
 # 🏙️ Airbnb NYC 2019 — Exploratory Data Analysis
 
 <p>
+  <a href="https://github.com/sadiq-mansoor/Airbnb-NYC-EDA/actions/workflows/ci.yml"><img src="https://github.com/sadiq-mansoor/Airbnb-NYC-EDA/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/seaborn%20%2F%20matplotlib-11557C?style=flat-square" />
